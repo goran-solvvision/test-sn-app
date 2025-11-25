@@ -18,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>Test BR SA 1</name>
+        <name>Test BR SA</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -30,7 +30,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-	// SA
+	// SA v2
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -39,15 +39,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5009f663839dfa90158454b6feaad3cf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Test BR SA 1</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Test BR SA</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test SN App" source="x_993889_test_sn_0">b271c35b83997a90158454b6feaad312</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test SN App">b271c35b83997a90158454b6feaad312</sys_scope>
         <sys_update_name>sys_script_5009f663839dfa90158454b6feaad3cf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-11-25 06:47:27</sys_updated_on>
+        <sys_updated_on>2025-11-25 07:30:12</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
